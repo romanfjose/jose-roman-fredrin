@@ -1,0 +1,5 @@
+node_modules/
+*.png
+.fredrin/
+package.json
+package-lock.json
